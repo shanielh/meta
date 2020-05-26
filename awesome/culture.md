@@ -1,0 +1,1 @@
+* [Habits of high performing teams (@deniseyu)](https://deniseyu.io/2020/05/23/habits-of-high-performing-teams.html)

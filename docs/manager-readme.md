@@ -12,6 +12,22 @@ expecting to read something here that wasn’t found too.
 
 ## My Expectations
 
+My definition of “Done” is defined by the task orientation:
+
+* Bug - it’s not done until it’s not deployed
+* Customer request (e.g. for POC) / related issue - not done until the customer 
+  has the message delievered
+* Development - merged and deployed before the end of the sprint (it’s up to you deploy it)
+
+My biggest expectation from you is your *own* ability to push tasks, if something
+is broken (e.g., you're blocked, the process is wrong), I'm here to help.
+
+I don't want to reach a state where I need to test your work, you should 
+test your stories and tasks and you can utilize any other team members 
+that will love to try to break your work 😀.
+
+## 1:1s
+
 A bi-weekly 1:1 where we’ll talk on anything which is not task/sprint related. 
 We’ll talk about your challenges and goals, give each other feedback and I’ll 
 try to provide context for things that are not clear. 
@@ -22,13 +38,6 @@ an option, but that might not be private as we use do to a lot of pair
 programming and reviews - my screen / WhatsApp / Slack / SMS are not a private 
 place. If we’re not in the same place, you can always call me, I might not 
 always answer - as I don’t expect from you to always be available.
-
-My definition of “Done” is defined by the task orientation:
-
-* Bug or customer request (e.g. for POC) - it’s not done until it’s not deployed
-* Development - merged to develop and deployed before the end of the sprint (it’s up to you deploy it)
-
-## 1:1s
 
 These meetings are there to give you dedicated time and place to ask and talk 
 about anything.
